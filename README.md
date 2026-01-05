@@ -33,4 +33,4 @@ The trained model demonstrates effective prediction of customer purchase quantit
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AI-Customer-Purchase-Prediction.git
+   git clone https://github.com/addshakib80/Customer_Quality_Purchase_Prediction.git
